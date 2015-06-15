@@ -1,4 +1,4 @@
-:tophat: magic
+:tophat: rocket
 =====
 
 Rocket creates an animation when an item is moved to another element.
